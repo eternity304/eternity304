@@ -8,7 +8,7 @@
 In my free time, I try to keep up to date with popular trends in the research communities, explore fields of mathematic (e.g., differential geometry, complex analysis, etc), and play chamber music with my friends.
 
 - 🌱 I’m currently working on an industrial engineering degree with a focus on data science and machine learning as well as mathematics and computer hardware on the side. 
-- 🔭 I have experienced with training with LLMs, diffusion on large scale datasets as well as application of traditional machine learning algorithms.
+- 🔭 I have experienced with training with LLMs, diffusion models on large scale datasets, their training strategies, as well as application of traditional machine learning algorithms.
 - ⚡ Fun fact: I am interested in many things; to list a few, they are piano, mathematic, violin, and concept design. 
 
 ### 
