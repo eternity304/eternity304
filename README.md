@@ -2,17 +2,15 @@
 
 
 ###
-<p align="left">My name is Harry and I'm an engineering who is passionate about the advancements of artificial intelligence. I am interested in theoretical ML and their applications to real world problems as well as how they can be implemented on a hardware level for efficient computing.</p>
+<p align="left">My name is Harry and I'm an engineering student who is passionate about the advancements of artificial intelligence. I am interested in theoretical ML and their applications to real world problems as well as how they can be implemented on a hardware level for efficient computing.</p>
 
 ###
 
-In my free time, I love to keep up to date with current trends in the research communities, explore fields of mathematic (e.g., differential geometry and complex analysis, etc), and playing different musical instruments with my friends.
+In my free time, I try to keep up to date with popular trends in the research communities, explore fields of mathematic (e.g., differential geometry, complex analysis, etc), and play chamber music with my friends.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently working on an industrial engineering degree with a focus on data science and machine learning as well as mathematics and hardware on the side. 
+- 🌱 I’m currently working on an industrial engineering degree with a focus on data science and machine learning as well as mathematics and computer hardware on the side. 
 - 🔭 I have experienced with training with LLMs, diffusion on large scale datasets as well as application of traditional machine learning algorithms.
-- ⚡ Fun fact: I am interested in many things; to list a few, there are piano, mathematic, violin, and concept design. 
+- ⚡ Fun fact: I am interested in many things; to list a few, they are piano, mathematic, violin, and concept design. 
 
 ### 
 
